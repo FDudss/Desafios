@@ -1,0 +1,16 @@
+@charset "UFT-8";
+body{
+    background-color: rgb(18, 19, 19);
+}
+main{
+    background-color: rgba(246, 249, 247, 0.805);
+    border-radius: 10px;
+    box-shadow: 5px 5px 15px rgb(113, 112, 112);
+    width: 600px;
+    padding: 10px;
+    margin: auto;
+
+}
+h1,h2{
+    color: rgb(98, 94, 209);
+}
